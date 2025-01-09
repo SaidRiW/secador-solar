@@ -27,3 +27,5 @@ Además de los módulos mencionados, también se tiene un apartado de recordator
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c14ab7a7-6cb9-4bc6-9bc5-3df92874c469" width="500" />
 </p>
+
+https://dcit-secador-solar.x10.mx/
